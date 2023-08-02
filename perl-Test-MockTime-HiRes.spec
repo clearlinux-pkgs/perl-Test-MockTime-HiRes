@@ -5,7 +5,7 @@
 #
 Name     : perl-Test-MockTime-HiRes
 Version  : 0.08
-Release  : 2
+Release  : 3
 URL      : https://cpan.metacpan.org/authors/id/T/TA/TARAO/Test-MockTime-HiRes-0.08.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/T/TA/TARAO/Test-MockTime-HiRes-0.08.tar.gz
 Summary  : 'Replaces actual time with simulated high resolution time'
